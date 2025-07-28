@@ -1,0 +1,2 @@
+# code-scan-and-remediation-demo
+A simple Python app that manages users. This application is for demonstration purposes only and intentionally contains some vulnerabilities to allow AI tools to identify them and suggest remediations.
